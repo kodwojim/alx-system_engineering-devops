@@ -1,0 +1,2 @@
+#!/bin/bahs
+ls -1t | head -10
